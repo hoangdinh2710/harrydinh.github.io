@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: How to build model using Azure ML
+category: azureml
 ---
 
 This is my first post, how exciting!
