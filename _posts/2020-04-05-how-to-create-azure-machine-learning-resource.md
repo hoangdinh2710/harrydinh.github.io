@@ -26,12 +26,12 @@ Type "Machine Learning" in the search box
 
 3. Review the configuration 
 
-By default Azure will 
+Remember to change the subscription, resource group and location. By default, Azure will select the most recent items that you used. The subscription determines which account will be charged for the usage of this resource. The resource group is a set of resources added to together so you can manage easier. The location will be the location of the resources, by default Azure will choose the closest available location to your local computer.
 
 ![Review the configuration](https://harryteststorageblob.blob.core.windows.net/blogazureimage/Image/azureml/portal/cs_azure_ml_review_n_create.PNG)
 
 
-4. Create new resouces 
+4. Create new resources 
 
 Click "Create" to create a new resource
 
@@ -48,11 +48,11 @@ Once you hit "Create", Azure will deploy the resource.
 
 5. Open Azure Machine Learning portal
 
-Once the resouces is deployed, you can start using the Azure Machine Learning.
+Once the resource is deployed, you can start using Azure Machine Learning.
 
 ![Open Azure Machine Learning Portal](https://harryteststorageblob.blob.core.windows.net/blogazureimage/Image/azureml/portal/cs_azure_ml_portal.PNG)
 
 
-Now, you have sucessfully created the Azure Machine Learning resource. Let's explore the power of it here!
+Now, you have successfully created the Azure Machine Learning resource. Let's explore the power of it here!
 
 
