@@ -4,6 +4,17 @@ title: How to build Machine Learning model using Azure ML Studio
 category: azureml
 ---
 
+# Table of Contents
+1. [Requirement](#Requirement)
+2. [Step by Step Instruction](#Step by Step Instruction)
+    1. []
+
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
+
+
 # Requirement
 
 1. Machine Learning Resouce
@@ -53,7 +64,8 @@ We will create a new folder name "Diabetes" to store all the scripts
 
 ![Create New Folder](https://harryteststorageblob.blob.core.windows.net/blogazureimage/Image/studio/cs_studio_notebook_new_folder.png)
 
+Add new Jupyter Notebook file
 
-
+![Create New File]()
 
 4. 
